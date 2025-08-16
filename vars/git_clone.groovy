@@ -1,4 +1,4 @@
 
-def call(string url) {
+def call(string url){
     git url: "${url}"
 }
